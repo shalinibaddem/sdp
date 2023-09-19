@@ -1,5 +1,5 @@
-This is the main branch of this repository. You can find different projects in different branches of this repository.
-kindly check the branches for different projects or can click on the below links:
+This is the UX and UI design branch of this repository. You can find different front end prototypes  of projects in this branch.
+
 
 
 Table booking system using django:  https://github.com/shalinibaddem/sdp/blob/table-booking-System/django

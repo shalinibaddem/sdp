@@ -8,4 +8,7 @@ Table booking system using django:  https://github.com/shalinibaddem/sdp/blob/ta
 Agriculture and aqua culture system:  https://github.com/shalinibaddem/sdp/blob/agriculture-and-aquaculture-system/MERN%20project%20link
 
 
+UX?UI designs :https://github.com/shalinibaddem/sdp/blob/UX/UI-designs/UI%20designs
+
+
           
